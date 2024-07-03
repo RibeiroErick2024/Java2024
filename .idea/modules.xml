@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Funcionario/Funcionario.iml" filepath="$PROJECT_DIR$/Funcionario/Funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Imoveis/Imoveis.iml" filepath="$PROJECT_DIR$/Imoveis/Imoveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java2024.iml" filepath="$PROJECT_DIR$/.idea/Java2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Milshakespeare/Milshakespeare.iml" filepath="$PROJECT_DIR$/Milshakespeare/Milshakespeare.iml" />
+    </modules>
+  </component>
+</project>

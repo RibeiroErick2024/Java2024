@@ -3,7 +3,7 @@ import model.Estagiario;
 import model.Pessoa;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
 
         Aluno aluno = new Aluno("João", 1001, "senha123", "Ciência da Computação");
         aluno.fazerMatricula();
